@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm @Reload225!
+# 👋 Hi there, I'm Shamil!
 
 I'm an innovative and results-driven iOS Developer with over 4 years of experience in building feature-rich mobile applications. Passionate about crafting seamless user experiences and optimizing app performance, I thrive in collaborative environments where I can contribute to exciting projects.
 
